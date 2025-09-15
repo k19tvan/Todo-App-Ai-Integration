@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply min-h-screen bg-black;
+    /*
+     * Thay đổi ở đây:
+     * 1. Ánh sáng tỏa tròn ở giữa đổi từ xanh lá (green) sang xanh mòng két (teal).
+     * 2. Nền dốc (gradient) từ đen chuyển sang màu xanh mòng két đậm thay vì xanh lá đậm.
+    */
+    background: radial-gradient(circle at center, rgba(20, 184, 166, 0.2), transparent 60%),
+                linear-gradient(to bottom, #000000, #042f2e);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+}
