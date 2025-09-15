@@ -11,7 +11,7 @@ npm run dev
 ✍️ [Todo List Website](https://navertodolist.vercel.app/)
 
 ## 🎥 Demo Video
-✍️ [Video Demo](./TodoList.mp4)
+✍️ [Video Demo](https://www.youtube.com/watch?v=GaJQhj-wMjw&ab_channel=AnT%C3%B4V%C4%A9nh)]
 
 ## 💻 Project Introduction
 
